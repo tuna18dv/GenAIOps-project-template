@@ -6,6 +6,8 @@ This repository has been initialized with the RAG with Azure AI Studio and Promp
 ttt
 The following diagram provides an overview of the solution's architecture:
 
+test
+
 ![Architecture](media/architecture.png)
 
 ## Project Resources
