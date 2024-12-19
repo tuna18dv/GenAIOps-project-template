@@ -3,7 +3,7 @@
 This repository has been initialized with the RAG with Azure AI Studio and Promptflow project template repository, which has been thoughtfully crafted with a template for Retrieval Augmented Generation using Promptflow. This template is designed to help you get started quickly and efficiently. The template project is a simplified version of the [Contoso Chat](https://github.com/Azure-Samples/contoso-chat/) sample project. 
 
 ## Architecture Overview
-
+ttt
 The following diagram provides an overview of the solution's architecture:
 
 ![Architecture](media/architecture.png)
